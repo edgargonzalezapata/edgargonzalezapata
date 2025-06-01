@@ -1,60 +1,56 @@
 # ¡Hola! 👋 Soy Edgar González
 
 ## 💻 Desarrollador Full Stack
-
-Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me especializo en el desarrollo de aplicaciones web y móviles con arquitecturas modernas y escalables.
+Ingeniero de software especializado en el desarrollo de soluciones empresariales de alto rendimiento. Mi enfoque combina conocimientos técnicos sólidos con una visión estratégica para crear aplicaciones que optimizan procesos de negocio y mejoran la experiencia del usuario final.
 
 ## 🛠️ Mi Stack Tecnológico
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%230072C6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![SignalR](https://img.shields.io/badge/SignalR-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+### Proyectos Actuales
 
-### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-%23FF6384.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white)
+#### Sistema de Producción Ferias Bio Bio
+Plataforma empresarial integral para la gestión completa del ciclo de remates ganaderos, desde el ingreso de animales hasta la facturación y control financiero, con integración a sistemas gubernamentales (SAG, SII) y trazabilidad completa.
 
-### Herramientas y Tecnologías
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Stack tecnológico:**
+- **Backend:** Visual Basic .NET Framework 4.8 con arquitectura MVC para separación de responsabilidades y mantenimiento optimizado
+- **Frontend:** Windows Forms con Krypton Toolkit para interfaces modernas y responsive adaptadas a entornos empresariales
+- **Persistencia:** SQL Server con procedimientos almacenados y consultas optimizadas para alto rendimiento en transacciones concurrentes
+- **Reportería avanzada:** Microsoft ReportViewer con plantillas RDLC personalizadas para generación dinámica de informes y dashboards analíticos
+- **Documentación digital:** iTextSharp para generación programática de documentos PDF con firma electrónica avanzada
+- **Trazabilidad:** Implementación de ZXing.Net y ThoughtWorks.QRCode para codificación/decodificación de información en códigos QR
+- **Integración cloud:** Microsoft Graph API y Azure Identity para autenticación segura y gestión de identidades
+- **Serialización de datos:** System.Text.Json para procesamiento eficiente de estructuras JSON en comunicaciones con APIs externas
+- **Seguridad:** Implementación de protocolos de encriptación y autenticación multinivel para protección de datos sensibles
 
-### Bibliotecas y Frameworks
-![iTextSharp](https://img.shields.io/badge/iTextSharp-%23000000.svg?style=for-the-badge&logoColor=white)
-![QR Code](https://img.shields.io/badge/QR%20Code-000000?style=for-the-badge&logo=qrcode&logoColor=white)
-![EPPlus](https://img.shields.io/badge/EPPlus-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+#### MECHARV - Sistema de Notas de Pedido
+Aplicación móvil multiplataforma para gestión logística de equipos de protección personal (EPP) y repuestos industriales con capacidades avanzadas de sincronización offline y procesamiento en tiempo real.
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=edgargonzalezapata&show_icons=true&theme=radical)
+**Stack tecnológico:**
+- **Framework multiplataforma:** Flutter para desarrollo cross-platform (iOS/Android) con una única base de código
+- **Lenguaje:** Dart con programación asíncrona y gestión eficiente de estados mediante Provider/Bloc
+- **Persistencia local:** SQLite con Room para almacenamiento estructurado y Hive para caché de alta velocidad
+- **Sincronización:** Arquitectura offline-first con resolución automática de conflictos y sincronización diferencial
+- **Networking:** Dio para comunicaciones HTTP optimizadas con interceptores y manejo avanzado de errores
+- **UI/UX:** Material Design 3 con componentes personalizados y animaciones fluidas optimizadas para rendimiento
+
+#### Sistema de Gestión FANDA
+Plataforma web empresarial para administración integral de ventas, convenios y análisis financiero con dashboards interactivos y reportes en tiempo real.
+
+**Stack tecnológico:**
+- **Frontend:** React.js con TypeScript para interfaces dinámicas y tipado estático que previene errores en tiempo de desarrollo
+- **Backend:** Node.js con Express para APIs RESTful de alto rendimiento y WebSockets para actualizaciones en tiempo real
+- **Base de datos:** PostgreSQL para datos relacionales con optimización de consultas complejas
+- **Visualización de datos:** D3.js y Chart.js para dashboards analíticos interactivos con filtrado dinámico
+- **Autenticación:** JWT con roles y permisos granulares para control de acceso basado en contexto
+- **Despliegue:** Docker con orquestación mediante Docker Compose para entornos consistentes y escalables
 
 ## 🌱 Actualmente estoy aprendiendo
-- Arquitecturas de microservicios
-- DevOps y CI/CD
-- Desarrollo de aplicaciones móviles
-
-## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-gonzalez-apata/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgargonzalezapata@gmail.com)
+- **Arquitecturas de microservicios:** Implementación de servicios distribuidos con Docker, Kubernetes y patrones de comunicación asíncrona
+- **DevOps y CI/CD:** Automatización de pipelines con GitHub Actions, Jenkins y estrategias de despliegue continuo
+- **Desarrollo móvil avanzado:** Arquitecturas limpias en Flutter con inyección de dependencias y testing automatizado
 
 ## 💼 Proyectos destacados
-- **MECHARV - Sistema de Notas de Pedido**: Aplicación móvil en Flutter para gestión de pedidos de EPP y repuestos con sincronización offline.
-- **Sistema de Gestión FANDA**: Aplicación web para gestión de ventas y convenios con dashboard interactivo.
-- **Sistema de Gestión Hospitalaria**: Plataforma para administración de pacientes y citas médicas.
-- **E-commerce de Productos Tecnológicos**: Tienda online con pasarela de pagos integrada.
+- **MECHARV - Sistema de Notas de Pedido:** Solución móvil empresarial para gestión logística con sincronización offline y procesamiento en tiempo real.
+- **Sistema de Gestión FANDA:** Plataforma web integral para administración de ventas y convenios con análisis financiero avanzado.
+- **Sistema de Producción Ferias Bio Bio:** Solución empresarial completa para la gestión de remates ganaderos con integración a sistemas gubernamentales y trazabilidad end-to-end.
 
----
-⭐️ ¡No dudes en contactarme para colaboraciones o consultas!
+⭐️ ¡No dudes en contactarme para colaboraciones o consultas profesionales!
