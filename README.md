@@ -2,7 +2,7 @@
 
 ## 💻 Desarrollador Full Stack
 
-Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me especializo en el desarrollo de aplicaciones web con arquitecturas modernas y escalables.
+Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me especializo en el desarrollo de aplicaciones web y móviles con arquitecturas modernas y escalables.
 
 ## 🛠️ Mi Stack Tecnológico
 
@@ -12,8 +12,12 @@ Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me espe
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%230072C6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![SignalR](https://img.shields.io/badge/SignalR-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,6 +30,8 @@ Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me espe
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Bibliotecas y Frameworks
 ![iTextSharp](https://img.shields.io/badge/iTextSharp-%23000000.svg?style=for-the-badge&logoColor=white)
@@ -45,6 +51,7 @@ Apasionado por crear soluciones tecnológicas innovadoras y funcionales. Me espe
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgargonzalezapata@gmail.com)
 
 ## 💼 Proyectos destacados
+- **MECHARV - Sistema de Notas de Pedido**: Aplicación móvil en Flutter para gestión de pedidos de EPP y repuestos con sincronización offline.
 - **Sistema de Gestión FANDA**: Aplicación web para gestión de ventas y convenios con dashboard interactivo.
 - **Sistema de Gestión Hospitalaria**: Plataforma para administración de pacientes y citas médicas.
 - **E-commerce de Productos Tecnológicos**: Tienda online con pasarela de pagos integrada.
