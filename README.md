@@ -25,11 +25,20 @@ Ingeniero de software con experiencia en desarrollo de plataformas robustas y es
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+
+**Autenticación y Seguridad:**
+
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Azure AD](https://img.shields.io/badge/Azure%20AD-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 
 **Herramientas y Cloud:**
 
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
@@ -54,6 +63,12 @@ App móvil (Flutter) para pedidos de EPP y repuestos, con modo offline, sincroni
 ### 📊 Sistema de Gestión – FANDA  
 Plataforma web para convenios y administración de ventas, con dashboards y reportes en tiempo real.  
 > Stack: React + TypeScript · Node.js · PostgreSQL · WebSockets · Chart.js · D3.js
+
+---
+
+### 💼 Control MiPyme  
+Sistema de gestión financiera empresarial desarrollado con Firebase como backend completo (Firestore, Auth, Storage). Incluye funcionalidades para administrar empresas, cuentas bancarias, transacciones, facturación y reportes detallados en tiempo real. La arquitectura serverless permite escalabilidad y sincronización instantánea entre dispositivos. Incluye modo oscuro y diseño responsive optimizado para móviles.  
+> Stack: Firebase (Firestore, Auth, Storage) · Next.js · React · TypeScript · Tailwind CSS · shadcn/ui · Netlify
 
 ---
 
