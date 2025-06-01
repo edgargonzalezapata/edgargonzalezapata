@@ -117,6 +117,6 @@ Plataforma web empresarial para administración integral de ventas, convenios y 
 - **MECHARV - Sistema de Notas de Pedido:** Solución móvil empresarial para gestión logística con sincronización offline y procesamiento en tiempo real.
 - **Sistema de Gestión FANDA:** Plataforma web integral para administración de ventas y convenios con análisis financiero avanzado.
 - **Sistema de Producción Ferias Bio Bio:** Solución empresarial completa para la gestión de remates ganaderos con integración a sistemas gubernamentales y trazabilidad end-to-end.
->>>>>>> 9f907cf6ac30bedae7323c23faea47b87b848a1b
+- **SIMPLE API para Facturación Electrónica:** API para la generación y procesamiento de documentos tributarios electrónicos (DTE) para el SII de Chile.
 
 ⭐️ ¡No dudes en contactarme para colaboraciones o consultas profesionales!
