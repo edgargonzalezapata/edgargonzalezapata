@@ -72,6 +72,20 @@ Sistema de gestión financiera empresarial desarrollado con Firebase como backen
 
 ---
 
+### 🍽️ VentaPOS - Sistema POS para Restaurantes  
+Sistema de punto de venta multiplataforma especializado para restaurantes y cafeterías. Incluye gestión completa de mesas, productos, pedidos y reportes de ventas en tiempo real. Arquitectura escalable con Firebase como backend y sincronización instantánea entre dispositivos. Interface intuitiva optimizada para toma de pedidos rápida y eficiente.  
+> Stack: Flutter · Firebase (Firestore, Auth, Storage) · Provider · Google Sign-In · Material Design 3
+
+**Características destacadas:**
+- 📱 Multiplataforma (Android, iOS, Web, Desktop)
+- 🪑 Gestión de mesas y reservas  
+- 📋 Toma de pedidos intuitiva
+- 💰 Dashboard de ventas en tiempo real
+- 🔐 Autenticación segura con Google
+- 📊 Reportes y analytics detallados
+
+---
+
 ## 📚 En constante aprendizaje
 
 - Arquitectura limpia y testing en Flutter  
